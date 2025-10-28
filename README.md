@@ -2,7 +2,7 @@
 
 # Home
 
-> [ubuntu-iso-builder-import-pacstall-gnome-shell-theme-vimix](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-gnome-shll-theme-vimix)
+> [ubuntu-iso-builder-import-pacstall-gnome-shell-theme-vimix](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-gnome-shell-theme-vimix)
 
 | Link | GitHub |
 | ---- | ------ |
