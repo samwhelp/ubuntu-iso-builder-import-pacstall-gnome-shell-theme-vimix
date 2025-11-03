@@ -9,8 +9,8 @@
 
 > [ubuntu-iso-builder-import-pacstall-gnome-shell-theme-vimix](https://samwhelp.github.io/ubuntu-iso-builder-import-pacstall-gnome-shell-theme-vimix/)
 
-| Link | GitHub |
-| ---- | ------ |
+| Project |
+| ------- |
 | [ubuntu-iso-builder-template](https://github.com/samwhelp/ubuntu-iso-builder-template) |
 | `+` |
 | [ubuntu-iso-builder-import-pacstall-gnome-shell-theme-vimix](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-gnome-shell-theme-vimix) |
